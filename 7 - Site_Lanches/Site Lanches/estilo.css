@@ -6,7 +6,7 @@
 body {
 
     /** Muda a cor do fundo da página **/
-    background-color: #ffe18c;
+    background-color: #8b0000;
 
     /** Muda a fonte do corpo da página e de todos os elementos
     em seu interior para Candara, Helvetica (se Candara não
@@ -118,7 +118,7 @@ que representa o logo do site**/
     float: left;
 
     /** Muda a cor do texto do logo **/
-    color: #e50021;
+    color: rgb(255, 255, 0);
 
     /** Por padrão, usamos o elemento vertical-align: middle
     para deixar elementos centralizados verticalmente. No entanto
@@ -281,7 +281,7 @@ principal do site **/
     width: 700px;
     
     /** Definimos a cor branca para a div principal **/
-    background-color: white;
+    background-color: #8b0000;
 
     /** Usando o tipo de posicionamento junto ao left e ao margin
     -left para centralizar a div principal horizontalmente na página **/
@@ -304,7 +304,7 @@ principal do site **/
 #promocaoH1 {
 
     /** Define a cor da fonte como branca **/
-    color: white;
+    color: rgb(255, 255, 255);
 
     /** Define um tamanho de fonte de 64px; **/
     font-size: 64px;
@@ -331,7 +331,7 @@ principal do site **/
 #promocaoValor {
 
     /** Define a cor da fonte como branca **/
-    color: white;
+    color: rgb(255, 255, 0);
 
     /** Define um tamanho de fonte de 64px; **/
     font-size: 48px;
@@ -358,7 +358,7 @@ principal do site **/
 
 #tituloConteudo {
     /** Define a cor **/
-    color: #e50021;
+    color: rgb(255, 255, 0);
         
     /** Alinha o texto do título no centro **/
     text-align: center;
@@ -389,7 +389,7 @@ principal do site **/
     width: 250px;
     
     /** Configura uma cor padrão para o texto das células **/
-    color: #e50021;
+    color: rgb(255, 255, 0);
 
     /** Configura um tamanho de fonte padrão para o texto das células **/
     font-size: 20px;
